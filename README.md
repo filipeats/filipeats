@@ -1,9 +1,15 @@
 ## Ola! Sou filipeats👋
-transformo código em soluções robustas e dados em insights estratégicos. Com sólidas habilidades em Desenvolvimento de Software, Administração de Banco de Dados e expertise em Java, Python e Redes, eu entrego resultados concretos e inovação tecnológica.
 
+Eu transformo código em soluções robustas e dados em insights estratégicos. Com sólidas habilidades em Desenvolvimento de Software, Administração de Banco de Dados e expertise em Java, Python e Redes, eu entrego resultados concretos e inovação tecnológica.
 
-[![Filipeats GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=filipeats&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Filipeats GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=filipeats&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+##
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filipeats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipeats&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ##
 
