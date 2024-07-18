@@ -4,12 +4,34 @@ Eu transformo código em soluções robustas e dados em insights estratégicos. 
 
 ##
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filipeats" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=filipeats&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=filipeats&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filipeats&show_icons=true" />
+  </picture>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipeats&layout=compact&langs_count=8&card_width=320" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=filipeats&layout=compact&langs_count=8&card_width=320&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=filipeats&layout=compact&langs_count=8&card_width=320"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipeats&layout=compact&langs_count=8&card_width=320" />
+  </picture>
 </a>
+
 
 ##
 
